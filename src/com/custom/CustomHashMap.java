@@ -1,4 +1,4 @@
-package com.array;
+package com.custom;
 
 public class CustomHashMap<K,V> {
 

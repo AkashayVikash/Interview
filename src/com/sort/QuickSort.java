@@ -1,4 +1,4 @@
-package com.array;
+package com.sort;
 
 public class QuickSort {
 

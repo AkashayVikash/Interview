@@ -1,4 +1,4 @@
-package com.array;
+package com.custom;
 class LinkedHashMapCustom<K, V> {
 
     private Entry<K,V>[] table;   //Array of Entry.

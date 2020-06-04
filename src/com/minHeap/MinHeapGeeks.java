@@ -1,4 +1,4 @@
-package com.array;
+package com.minHeap;
 
 public class MinHeapGeeks {
 
